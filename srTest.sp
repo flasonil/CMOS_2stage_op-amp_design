@@ -1,4 +1,4 @@
-* C:\Users\Ilario Coppola\Documents\LTspiceXVII\bigopamp\slewRateTest\srTest.asc
+
 vin n001 0 pulse(0 2 10u .001u .001u 10u 20u 4)
 vcc vcc 0 2.5
 vss 0 vss 2.5
