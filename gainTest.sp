@@ -1,4 +1,4 @@
-* C:\Users\Ilario Coppola\Documents\LTspiceXVII\bigopamp\gainTest\gainTest.asc
+
 v1 n001 0 ac 1
 vcc vcc 0 2.5
 vss 0 vss 2.5
