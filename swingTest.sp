@@ -1,4 +1,4 @@
-* C:\Users\Ilario Coppola\Documents\LTspiceXVII\bigopamp\outputSwingTest\swingTest.asc
+
 vin n001 0
 vcc vcc 0 2.5
 vss 0 vss 2.5
